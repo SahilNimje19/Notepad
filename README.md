@@ -28,4 +28,20 @@ A simple Java-based Notepad application built using Swing. This project demonstr
 4. **Run the Program**
    ```bash
    -java -cp out Notepad
-   
+
+## ✅ To-Do / Future Improvements
+
+- Add theme support (dark/light mode)
+- Implement find and replace functionality
+- Enable tabbed documents
+- Add keyboard shortcuts for quick actions
+
+## 🧾 License
+- This project is licensed under the MIT License.
+- You are free to use, modify, and distribute this software with proper attribution.
+
+## 👤 Author / Contact
+- Developer: Sahil Nimje
+- Email: sahilnimje12345@gmail.com
+- GitHub: @SahilNimje19
+- LinkedIn: www.linkedin.com/in/sahil-nimje-7108b6257
